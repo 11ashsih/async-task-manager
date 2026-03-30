@@ -1,2 +1,16 @@
-# async-task-manager
-Async Task Manager API (Python + Asyncio + Pydantic) - 💡 What This Project Shows Async programming (asyncio) Data validation (pydantic) Clean architecture CRUD operations Ready for backend roles
+# async-task-manager (Python)
+A simple async task manager built using python, asyncio and pydantic
+
+# Feature
+- Create task
+- List task
+- Mark task as complete
+- Delete task
+- Async architecture using asyncio
+- Data validation using pydantic
+
+# Tech Stack
+- Python 3
+- asyncio
+- pydantic
+
